@@ -1,1 +1,0 @@
-python3 model_eval.py '/home/xiaofey/CPSC-8430/Homework#2/' result.txt
